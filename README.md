@@ -11,3 +11,5 @@ Space for normal attack
 WASD to move
 ZXC for skill
 ```
+
+![Curs3d](https://user-images.githubusercontent.com/103666262/189892437-b1e19daf-a7e6-43c2-9f20-21e94eaa7b29.png)
